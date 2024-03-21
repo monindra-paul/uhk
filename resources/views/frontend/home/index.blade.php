@@ -274,22 +274,22 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="service-one-card service-card-two" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="service-one-card__image">
-                            <img src="assets/images/services/sv-1.jpg" alt="HR Consulting">
+                            <img src="assets/images/uhk/hs-1.webp" alt="HR Consulting">
                         </div><!-- /.service-one-card__image -->
                         <div class="service-one-card__content">
                             <div class="service-one-card__icon">
                                 <i class="icon-consulting"></i>
-                                <a href="services.html" class="service-one-card__cat">Management</a>
+                                <a href="services.html" class="service-one-card__cat">Services</a>
                             </div><!-- /.service-one-card__price -->
                             <h3 class="service-one-card__title">
-                                <a href="service-d-consulting.html">HR Consulting</a>
+                                <a href="{{url('/services')}}">Complete Facility Management
+                                </a>
                             </h3><!-- /.service-one-card__title -->
 
-                            <p class="service-one-card__text">Lorem ipsum dolor sit amet, consectetur notted
-                                adipisicing elit sed do eiusmod</p>
+                            <p class="service-one-card__text">Complete Facility Management involves overseeing all aspects of physical infrastructure, from maintenance and security to cleaning and space management.</p>
                             <!-- /.service-one-card__text -->
                         </div><!-- /.service-one-card__content -->
-                        <a href="service-d-consulting.html" class="service-one-card__link">
+                        <a href="{{url('/services')}}" class="service-one-card__link">
                             Read More
                             <i class="icon-right-arrow"></i>
                         </a><!-- /.blog-card__link -->
@@ -298,22 +298,24 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="service-one-card service-card-two" data-wow-duration="1500ms" data-wow-delay="1ms">
                         <div class="service-one-card__image">
-                            <img src="assets/images/services/sv-2.jpg" alt="Tech Resources">
+                            <img src="assets/images/uhk/hs-2.webp" alt="Tech Resources">
                         </div><!-- /.service-one-card__image -->
                         <div class="service-one-card__content">
                             <div class="service-one-card__icon">
                                 <i class="icon-controller"></i>
-                                <a href="services.html" class="service-one-card__cat">Resources</a>
+                                <a href="services.html" class="service-one-card__cat">Services</a>
                             </div><!-- /.service-one-card__price -->
                             <h3 class="service-one-card__title">
-                                <a href="service-d-resources.html">Tech Resources</a>
+                                <a href="{{url('/services')}}">Housekeeping Services
+                                </a>
                             </h3><!-- /.service-one-card__title -->
 
-                            <p class="service-one-card__text">Lorem ipsum dolor sit amet, consectetur notted
-                                adipisicing elit sed do eiusmod</p>
+                            <p class="service-one-card__text">Housekeeping services ensure cleanliness in various environments. Housekeeping involves cleaning and organizing interiors for hygiene and comfort.
+
+                            </p>
                             <!-- /.service-one-card__text -->
                         </div><!-- /.service-one-card__content -->
-                        <a href="service-d-resources.html" class="service-one-card__link">
+                        <a href="{{url('/services')}}" class="service-one-card__link">
                             Read More
                             <i class="icon-right-arrow"></i>
                         </a><!-- /.blog-card__link -->
@@ -322,22 +324,21 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="service-one-card service-card-two" data-wow-duration="1500ms" data-wow-delay="1ms">
                         <div class="service-one-card__image">
-                            <img src="assets/images/services/sv-3.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/hs-3.webp" alt="Staffing Solution">
                         </div><!-- /.service-one-card__image -->
                         <div class="service-one-card__content">
                             <div class="service-one-card__icon">
                                 <i class="icon-policy"></i>
-                                <a href="services.html" class="service-one-card__cat">Solution</a>
+                                <a href="services.html" class="service-one-card__cat">Services</a>
                             </div><!-- /.service-one-card__price -->
                             <h3 class="service-one-card__title">
-                                <a href="service-d-resources.html">Staffing Solution</a>
+                                <a href="{{url('/services')}}">Complete Manpower Supply</a>
                             </h3><!-- /.service-one-card__title -->
 
-                            <p class="service-one-card__text">Lorem ipsum dolor sit amet, consectetur notted
-                                adipisicing elit sed do eiusmod</p>
+                            <p class="service-one-card__text">Complete manpower supply offers both technical and non-technical staffing solutions. Technical roles include engineers and IT professionals, while non-technical roles encompass administrative and customer service positions.</p>
                             <!-- /.service-one-card__text -->
                         </div><!-- /.service-one-card__content -->
-                        <a href="service-d-resources.html" class="service-one-card__link">
+                        <a href="{{url('/services')}}" class="service-one-card__link">
                             Read More
                             <i class="icon-right-arrow"></i>
                         </a><!-- /.blog-card__link -->
@@ -351,7 +352,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-xl-8 wow fadeInLeft" data-wow-delay="200ms">
-                    <h2 class="cta-one__title">Hiredots Trusted Staffing & Recruitment Agency</h2>
+                    <h2 class="cta-one__title">Manpower Trusted Staffing & Recruitment Agency</h2>
                 </div>
                 <div class="col-md-4 col-xl-4 text-end wow fadeInRight" data-wow-delay="300ms">
                     <a href="about.html" class="hiredots-btn hiredots-btn--base"><span>Discover

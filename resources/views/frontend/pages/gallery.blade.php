@@ -13,72 +13,72 @@
         </div><!-- /.container -->
     </section><!-- /.page-header -->
 
-    <div class="project-one project--page">
+    <div class="project-one project--page" >
         <div class="container">
             <div class="row gutter-y-30">
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-1.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/1.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">Security Guard</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-2.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/gal-2.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">HOUSEKEEPING</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-3.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/gal-3.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">Bouncer</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-4.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/gal-4.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">Event Staff</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-5.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/gal-5.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">CCTV</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="project-one__card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1ms'>
                         <div class="project-one__img">
-                            <img src="assets/images/project/project-1-6.jpg" alt="Staffing Solution">
+                            <img src="assets/images/uhk/gal-6.webp" alt="Staffing Solution">
                         </div>
                         <div class="project-one__content">
-                            <span class="project-one__tagline">Resources</span>
-                            <h3 class="project-one__title"><a href="project-details.html">Staffing Solution</a></h3>
+                            <span class="project-one__tagline">Services</span>
+                            <h3 class="project-one__title"><a href="#">Event Management</a></h3>
                         </div>
                     </div>
                 </div>
